@@ -35,8 +35,6 @@ I specialize in full-stack web development and cross-platform mobile apps, with 
 
 ## 📂 Featured Projects
 
-> *Add your best projects here later*
-
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | Project Name 1 | Short description | Laravel, React | [GitHub](#) |
