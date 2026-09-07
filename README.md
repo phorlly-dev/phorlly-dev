@@ -39,8 +39,8 @@ I specialize in full-stack web development and cross-platform mobile apps, with 
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| Project Name 1 | Short description | Laravel, React | [GitHub](#) / [Live](#) |
-| Project Name 2 | Short description | Flutter | [GitHub](#) / [Demo](#) |
+| Project Name 1 | The social media application Samesta, which means “universe” in Indonesian | Laravel, React | [GitHub](https://github.com/phorlly-dev/semesta.git) |
+| samesta | Short description | Flutter | [GitHub](#) / [Demo](#) |
 | Project Name 3 | Short description | Next.js | [GitHub](#) |
 
 ---
