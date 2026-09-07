@@ -48,7 +48,7 @@ I specialize in full-stack web development and cross-platform mobile apps, with 
 ## 📫 Connect with Me
 
 - 📄 **CV / Resume:** [View my CV](https://canva.link/wdxbppvvan7wjvl)
---- 💼 LinkedIn: *(add your LinkedIn)* 
+- 💼 Telegram: *(https://t.me/phorlly_kh80)* 
 - 📧 Email: *(phorlly.8800@gmail.com)*
 - 🌐 Portfolio: *(add if you have one)*
 
